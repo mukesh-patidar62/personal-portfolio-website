@@ -5,11 +5,7 @@ A modern, responsive personal portfolio website created to showcase my skills, e
 🌐 Live Demo
 
 Portfolio:
-Add your deployed website link here.
-
-Example:
-
-"https://yourusername.github.io/personal-portfolio-website/"
+ https://mukesh-patidar62.github.io/personal-portfolio-website/
 
 📌 About the Project
 
